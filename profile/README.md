@@ -1,6 +1,7 @@
 # O.L.T.R.A
 
-![O.L.T.R.A Logo](../trademark/icon.png)
+<img src="../trademark/icon.png" alt="O.L.T.R.A Logo" width="256"/>
+
 
 **O.L.T.R.A (One Launcher to Rule Them All)** is a modern, reliable meta-launcher platform that allows gamers to access all game and content from a single centralized application.
 
